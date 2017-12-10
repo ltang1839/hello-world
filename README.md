@@ -1,3 +1,6 @@
 # hello-world
 new repository
-Make first change.
+
+change 1
+
+change 2
